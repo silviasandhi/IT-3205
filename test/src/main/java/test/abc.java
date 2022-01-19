@@ -6,6 +6,7 @@ public class abc {
 		// TODO Auto-generated method stub
             System.out.print("hello");
 		System.out.print("world");
+		System.out.print("new world");
 		
 	}
 
